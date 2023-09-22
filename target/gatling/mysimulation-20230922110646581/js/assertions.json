@@ -1,0 +1,10 @@
+{
+  "simulation": "gatling.MySimulation",
+  "simulationId": "mysimulation",
+  "start": 1695380806581,
+  "description": "",
+  "scenarios": ["Healthcheck", "Registration", "Authentication"],
+  "assertions": [
+
+  ]
+}
